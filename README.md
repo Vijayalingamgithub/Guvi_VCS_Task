@@ -1,1 +1,1 @@
-echo "# My DevOps Project"
+echo "# Updated README"
